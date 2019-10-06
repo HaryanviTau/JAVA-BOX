@@ -4,11 +4,11 @@ public class Compare {
   
 if(a>b)
       {  
-     System.out.println(" A is greater than B");
+     System.out.println(" a is greater than B");
       }
 else
       {     
-      System.out.println(" B is greater");
+      System.out.println(" b is greater");
       }      
 
 }

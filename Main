@@ -3,8 +3,12 @@ public class Compare {
      int b=5;
   
 if(a>b)
-      {  // if condition
+      {  
      System.out.println(" A is greater than B");
       }
+else
+      {     
+      System.out.println(" B is greater");
+      }      
 
 }

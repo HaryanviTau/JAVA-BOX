@@ -1,0 +1,10 @@
+public class Compare {
+     int a=10,
+     int b=5;
+  
+if(a>b)
+      {  // if condition
+     System.out.println(" A is greater than B");
+      }
+
+}
